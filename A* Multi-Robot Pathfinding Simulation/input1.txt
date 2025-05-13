@@ -1,0 +1,12 @@
+6 6 // The room has dimensions six by six
+3 // there are N = 3 robots
+0 2 // 1st robot initial position: point (0,2)
+2 5 // 2nd robot initial position: point (2,5)
+5 1 // 3rd robot initial position: point (5,1)
+3 2 // the rendezvous point R has coordinates (4,7)
+100000
+000000
+001000
+001100
+000000
+000001

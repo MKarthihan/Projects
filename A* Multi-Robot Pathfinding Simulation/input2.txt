@@ -1,0 +1,15 @@
+10 3 // The room has dimensions ten by three
+2   //there are N = 2 robots
+0 0 //1st robot is at (0,0)
+2 0 //2nd robot is at (2,0)
+1 8 //rendezvous point is at (1,8)
+000
+000
+011
+000
+110
+000
+011
+000
+000
+000

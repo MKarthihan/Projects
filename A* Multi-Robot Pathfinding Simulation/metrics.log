@@ -1,0 +1,51 @@
+Metrics Log Entry:
+Simulation Run: 2025-04-02 04:45:01
+----------------------------------------
+Metrics Log Entry:
+Total Simulation Steps: 44
+Total Execution Time (sec): 24.86
+----------------------------------------
+Metrics Log Entry:
+Robot 1 Stats: 
+Steps Taken: 44
+Replans: 1
+----------------------------------------
+Metrics Log Entry:
+Robot 2 Stats: 
+Steps Taken: 43
+Replans: 1
+----------------------------------------
+Metrics Log Entry:
+Simulation Run: 2025-04-02 14:36:24
+----------------------------------------
+Metrics Log Entry:
+Total Simulation Steps: 44
+Total Execution Time (sec): 24.99
+----------------------------------------
+Metrics Log Entry:
+Robot 1 Stats: 
+Steps Taken: 44
+Replans: 1
+----------------------------------------
+Metrics Log Entry:
+Robot 2 Stats: 
+Steps Taken: 43
+Replans: 1
+----------------------------------------
+Metrics Log Entry:
+Simulation Run: 2025-04-02 14:52:52
+----------------------------------------
+Metrics Log Entry:
+Total Simulation Steps: 44
+Total Execution Time (sec): 25.72
+----------------------------------------
+Metrics Log Entry:
+Robot 1 Stats: 
+Steps Taken: 44
+Replans: 1
+----------------------------------------
+Metrics Log Entry:
+Robot 2 Stats: 
+Steps Taken: 43
+Replans: 1
+----------------------------------------
